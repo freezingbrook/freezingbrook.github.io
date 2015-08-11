@@ -1,0 +1,12 @@
+# Site settings
+title: Real color mixing
+# email: freezingbrook@gmail.com
+description: RGB is not how real world color works!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://socftw.xyz" # the base hostname & protocol for your site
+# twitter_username: freezingbrook
+# github_username: freezingbrook
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:title/
