@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://socftw.xyz" # the base hostname & protocol for your site
 # twitter_username: freezingbrook
 # github_username: freezingbrook
+ga: UA-66187429-1
 
 # Build settings
 markdown: kramdown
