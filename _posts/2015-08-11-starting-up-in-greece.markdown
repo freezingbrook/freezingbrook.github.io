@@ -12,12 +12,11 @@ The course of action to accomplish this, assuming you have a croft and the know 
 
 * Getting state permissions to grow flowers in your croft
 * Starting up. Steps this act includes:
-	* Obtaining:
-		* A [seal](http://www.kretsis.com/print/images/uploads/sfragida4.jpg) with yours and your jobs details  
-	 	* An income/expenses book, which you numerate  
-	 	* A three-layer receipt book, which you numerate and seal each page  
-	 	* A three-layer invoices book, which you numerate and seal each page  
-	 	* Five copies of your government ID  
+	* A [seal](http://www.kretsis.com/print/images/uploads/sfragida4.jpg) with yours and your jobs details
+	* An income/expenses book, which you numerate
+	* A three-layer receipt book, which you numerate and seal each page
+	* A three-layer invoices book, which you numerate and seal each page
+	* Five copies of your government ID
 	* Apply using specific forms, validated from an authority. These are:
 		* Two for your official business office
 		* One that you have not endorsed at any other Public Economic Department office of the city or country
