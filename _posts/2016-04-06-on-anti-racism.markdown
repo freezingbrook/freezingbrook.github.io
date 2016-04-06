@@ -5,7 +5,7 @@ date:   2015-09-09 05:08:26
 categories: social
 ---
 
-"Are you racist? 'No' isn't a good enough answer" – [video](http://www.theguardian.com/commentisfree/video/2016/jan/13/marlon-james-are-you-racist-video)
+"Are you racist? 'No' isn't a good enough answer" – [video](http://www.theguardian.com/commentisfree/video/2016/jan/13/marlon-james-are-you-racist-video).
 
 The protagonist of the above video claims that being a non-racist is not enough; we need to be anti-racist.
 
@@ -16,6 +16,7 @@ Firstly, to clarify: being a non-racist means claiming not being a racist instea
 This is because an anti-racist *acts* towards the goal of actually stopping racism. Whereas, a non-racist is generally against racism, but will not strive actively for the prevention of racist actions and/or situations.
 
 The above argument implies directly and claims:
+
 * Racism is a problem. == Thus > we need to stop racism.
 * By identifying ourselves as anti-racists and acting as ones, we help towards the solution of the problem of racism.
 
@@ -24,6 +25,7 @@ Racism is the biased animosity towards a different race (as race we can also ide
 Racism causes social unrest. Discrimination creates discontent and tension in the society.
 
 In order to stop racism, we need to find the roots of the problem. Its causes are:
+
 * Fear of the unknown.
 * The need to blame someone/something for the society's problems.
 
